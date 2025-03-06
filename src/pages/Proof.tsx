@@ -21,9 +21,9 @@ import {
 
 const Proof = () => {
   const performanceData = [
-    { name: 'Competitor A', performance: 250, color: '#64748b' },
-    { name: 'Competitor B', performance: 310, color: '#94a3b8' },
-    { name: 'Competitor C', performance: 390, color: '#cbd5e1' },
+    { name: 'Kodachi Botnet', performance: 250, color: '#64748b' },
+    { name: 'TracerC2', performance: 310, color: '#94a3b8' },
+    { name: 'LoneC2', performance: 390, color: '#cbd5e1' },
     { name: 'Snow C2', performance: 800, color: '#38bdf8' },
   ];
   
